@@ -18,5 +18,5 @@ Steps to install:
 - I used the "styled-components" library to create component styles.
 
 # If you referred to any external resources or had to use code snippets, please provide proper attribution in the comments and explain why and how you used them.
-- I used [useful-nth-child-recipies](https://css-tricks.com/useful-nth-child-recipies/) website to see how to select the first and last 3 elements in CSS. (`&:nth-child(-n + 3)` && `&:nth-last-child(-n + 3)`.
+- I used [useful-nth-child-recipies](https://css-tricks.com/useful-nth-child-recipies/) website to see how to select the first and last 3 elements in CSS. `&:nth-child(-n + 3)` && `&:nth-last-child(-n + 3)`.
 - I used [Styled Component](https://styled-components.com/docs/basics/) website to see the style of writing keyframes in "styled-components" library
